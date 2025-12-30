@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#3A59D1</color>
+    <color name="white">#B5FCCD</color>
+    <color name="mint_green">#3D90D7</color>
+    <color name="soft_yellow">#B5FCCD</color>
+    <color name="coral_pink">#7AC6D2</color>
+    <color name="deep_red">#3A59D1</color>
+
+    <color name="background_color">@color/soft_yellow</color>
+    <color name="primary_color">@color/mint_green</color>
+    <color name="accent_color">@color/coral_pink</color>
+    <color name="error_color">@color/deep_red</color>
+
+    <color name="primary_text">#3A59D1</color>
+    <color name="secondary_text">#7AC6D2</color>
+
+    <color name="divider_color">#3D90D7</color>
+    <color name="income_green">#3D90D7</color>
+    <color name="expense_red">#3A59D1</color>
+    <color name="warning_red">#3A59D1</color>
+</resources>

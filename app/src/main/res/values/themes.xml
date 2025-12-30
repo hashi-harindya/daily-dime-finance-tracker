@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DailyDime" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+    <style name="Theme.App.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/mint_green</item>
+        <item name="android:statusBarColor">@color/mint_green</item>
+        <item name="android:navigationBarColor">@color/mint_green</item>
+    </style>
+    <style name="Theme.DailyDime" parent="Base.Theme.DailyDime" />
+</resources>
